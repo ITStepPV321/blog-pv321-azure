@@ -4,7 +4,7 @@ import PostsList from './components/posts/PostsList';
 function App() {
   return (
     <div className="App">
-      <h1> Blog PV321</h1>
+      <h1> Blog PV321 deploing in AZURE</h1>
       <PostsList/>
     </div>
   );
